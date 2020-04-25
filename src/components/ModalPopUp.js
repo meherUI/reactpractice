@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 
+
 export default class ModalPopUp extends Component {
     constructor(props){
         super(props);
